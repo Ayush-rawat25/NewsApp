@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 32,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Andrew Macaskill, Paul Sandle",
+            "title": "Prime Minister Starmer plans to make Britain AI 'superpower' - Reuters UK",
+            "description": "British Prime Minister Keir Starmer said he wanted to make the UK an artificial intelligence \"superpower\", promising to take a pro-innovation approach to regulation, make public data available to researchers and create zones for data centres.",
+            "url": "https://www.reuters.com/world/uk/uk-pm-starmer-outline-plan-make-britain-world-leader-ai-2025-01-12/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/ASFJFIZ4MJKEBHLLIELKK6ULJI.jpg?auth=84ec065618b25c24d4c927ae0daa0189c2c7c09f9572b9e5ecee0ea2b5d02232&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2025-01-13T14:05:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Joe Rao",
+            "title": "The Full Wolf Moon 'eats' Mars on Jan. 13. Here's how to see it - Space.com",
+            "description": "If you are fortunate to live in the occultation zone and the weather cooperates, this upcoming event is one that really should not be missed.",
+            "url": "https://www.space.com/stargazing/the-full-wolf-moon-eats-mars-on-jan-13-heres-how-to-see-it",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KsBw2hYBHxkyydH3zdg39h-1200-80.gif",
+            "publishedAt": "2025-01-13T13:27:49Z",
+            "content": "Just four days after it passed in front of the Pleiades star cluster, the moon will cross paths with another noteworthy celestial object on Monday evening, Jan. 13, when it will cover the planet Mars… [+10236 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Esteban L. Hernandez",
+            "title": "Cancer label for alcoholic drinks divides Colorado experts - Axios",
+            "description": "The advisory could lead more people to reexamine their drinking habits.",
+            "url": "https://www.axios.com/local/denver/2025/01/13/cancer-label-alcoholic-drinks-colorado-experts",
+            "urlToImage": "https://images.axios.com/sJndBa4H0kKwwT78p8yoVAI46vU=/0x0:1920x1080/1366x768/2025/01/10/1736539465614.jpg",
+            "publishedAt": "2025-01-13T13:23:58Z",
+            "content": "Colorado experts and industry veterans are divided over U.S. Surgeon General Vivek Murthy's recent call for the U.S. to adopt warning labels on alcoholic beverages.\r\nState of play: The advisory recom… [+2789 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sana Noor Haq",
+            "title": "Tsunami advisory triggered after 6.9 magnitude earthquake rattles southwest Japan - CNN",
+            "description": "Japan’s Meteorological Agency has issued a tsunami advisory after a 6.9 magnitude earthquake occurred off the coast of southwest Japan.",
+            "url": "https://www.cnn.com/2025/01/13/asia/tsunami-advisory-earthquake-southwestern-japan-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/150325082132-social-gfx-breaking-news.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-13T13:20:00Z",
+            "content": "Japans Meteorological Agency has issued a tsunami advisory after a 6.9 magnitude earthquake occurred off the coast of southwest Japan.\r\nThe quake struck shortly after 9:19 p.m. local time (7:19 a.m. … [+335 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Nvidia flatters Trump in scathing response to Biden’s new AI chip restrictions - The Verge",
+            "description": "Nvidia is cozying up to the incoming Trump administration after criticizing the Biden administration's new AI rules for keeping AI chips and models under US controls.",
+            "url": "https://www.theverge.com/2025/1/13/24342595/nvidia-flatter-trump-biden-administration-ai-chip-restrictions",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/NrTVeYWOeyiqpW7biB9hM2RMaFQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22481672/acastro_210430_1777_semiCon_0001.jpg",
+            "publishedAt": "2025-01-13T13:12:02Z",
+            "content": "Nvidia flatters Trump in scathing response to Bidens new AI chip restrictions\r\nNvidia flatters Trump in scathing response to Bidens new AI chip restrictions\r\n / The first Trump Administration laid th… [+4342 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MARCIA DUNN",
+            "title": "Jeff Bezos' space company calls off debut launch of massive new rocket in final minutes of countdown - The Associated Press",
+            "description": "Blue Origin has called off the debut launch of its massive new rocket because of technical trouble. The 320-foot rocket was supposed to blast off before dawn Monday with a prototype satellite from Cape Canaveral, Florida. But launch controllers had to deal wi…",
+            "url": "https://apnews.com/article/rocket-launch-blue-origin-jeff-bezos-0cb070fa51356f3720c3477ca9fb670b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6c38148/2147483647/strip/true/crop/2730x1536+0+142/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2Fd8%2F0022745164ceb99b47498b5fd5c6%2F09b973a6239747f89a7b74edd0a72e12",
+            "publishedAt": "2025-01-13T13:07:00Z",
+            "content": "CAPE CANAVERAL, Fla. (AP) Blue Origin called off the debut launch of its massive new rocket early Monday because of technical trouble.\r\nThe 320-foot (98-meter) New Glenn rocket was supposed to blast … [+1377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Riley Cardoza",
+            "title": "Justine Bateman blasts ‘disaster tourists’ Prince Harry, Meghan Markle after they help LA wildfire victims - Page Six",
+            "description": "The former “Family Ties” actress claimed that the couple are “no better than ambulance chasers” in a scathing tweet over the weekend.",
+            "url": "https://pagesix.com/2025/01/13/royal-family/justine-bateman-slams-disaster-tourists-prince-harry-meghan-markle-for-la-wildfire-help/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/01/justine-bateman-meghan-markle-prince-harry-52.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2025-01-13T12:49:00Z",
+            "content": "Meghan Markle and Prince Harry helped wildfire victims in Los Angeles on Friday — and Justine Bateman labeled them “disaster tourists.”\r\nThe “Family Ties” alum claimed via X on Saturday that the coup… [+2636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Veronika Melkozerova",
+            "title": "North Koreans are far from ‘cannon fodder,’ Ukrainian soldiers say - POLITICO Europe",
+            "description": "Zelenskyy offers prisoner exchange if Kim Jong Un helps with the return of Ukrainian prisoners from Russia.",
+            "url": "https://www.politico.eu/article/north-koreans-skilled-fighters-rather-kill-themselves-then-get-captured-ukrainian-soldiers-say/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/01/13/GettyImages-2190892752-scaled.jpg",
+            "publishedAt": "2025-01-13T12:11:00Z",
+            "content": "Ukrainian soldiers describe the North Korean soldiers as being very far from inexperienced cannon fodder.  \r\nThey are young, motivated, physically fit, brave, and good at using small arms. They are a… [+1056 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2025-01-13T12:04:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Emily Peck",
+            "title": "Trump tax bill could win over Democrats with key deduction - Axios",
+            "description": "Raising the local tax deduction would benefit wealthier households in blue states.",
+            "url": "https://www.axios.com/2025/01/13/trump-salt-tax-deduction",
+            "urlToImage": "https://images.axios.com/swKmvb4fH4ier8bROpAoucvLc2A=/0x0:1920x1080/1366x768/2025/01/12/1736710880644.jpg",
+            "publishedAt": "2025-01-13T12:00:09Z",
+            "content": "The years-long effort to restore the beloved SALT tax deduction is gaining traction, as Republicans push to get \"one big beautiful\" tax bill passed.\r\nWhy it matters: This would be an expensive defici… [+2002 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "John Melloy, Yun Li",
+            "title": "Bill Ackman's Pershing Square offers to take over real estate developer Howard Hughes for $85 a share - CNBC",
+            "description": "Ackman proposed forming a new subsidiary of Pershing, which currently owns about 38% of Howard Hughes, that would merge with the company.",
+            "url": "https://www.cnbc.com/2025/01/13/bill-ackmans-pershing-square-offers-to-take-over-real-estate-developer-howard-hughes.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107308735-1696249313216-107308735-1695934420462-IMG_7028.jpg?v=1696249335&w=1920&h=1080",
+            "publishedAt": "2025-01-13T11:57:45Z",
+            "content": "Bill Ackman's Pershing Square is offering to take over the rest of Howard Hughes Holdings the investment firm does not own for $85 a share.\r\n\"While we are pleased with the substantial business progre… [+1953 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": null,
+            "title": "California fires weather forecast: High winds could cause explosive fire growth - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/california-fires-weather-forecast-monday-wildfires-la/story?id\\\\u003d117614856",
+            "urlToImage": null,
+            "publishedAt": "2025-01-13T11:28:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rock Paper Shotgun"
+            },
+            "author": null,
+            "title": "Dynasty Warriors: Origins review: a glorious, melodramatic and convincing illusion of tactical warfare - Rock Paper Shotgun",
+            "description": "An uninteresting original story and the otherwise bloated word count aside, Dynasty Warriors Origins is a joyous balancing act of tension and spectacle.",
+            "url": "https://www.rockpapershotgun.com/dynasty-warriors-origins-review-1",
+            "urlToImage": "https://assetsio.gnwcdn.com/dynasty-warriors-origins-header_3eUslTM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2025-01-13T11:00:00Z",
+            "content": "Dynasty Warriors: Origins reviewA largely uninteresting original story and an otherwise bloated word count aside, Dynasty Warriors Origins is a joyous balancing act of tension and spectacle that's co… [+9609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "Saquon Barkley: “Stats don’t matter, the only stat that matters is the win” - NBC Sports",
+            "description": "Barkley said he wasn't tempted to run to the end zone at the end of the game because a first down clinched the win.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-stats-dont-matter-the-only-stat-that-matters-is-the-win",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/9175d16/2147483647/strip/true/crop/2973x1672+0+155/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2Ff3%2Fd1796bf543508e86671540e0b10e%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D25174853",
+            "publishedAt": "2025-01-13T10:00:31Z",
+            "content": "Eagles running back Saquon Barkley ran for 119 yards in Sundays win over the Packers, but he could have run for 59 more and chose not to on his final carry of the game.\r\nAfter he gained the game-clin… [+1106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Biden and Netanyahu discuss Gaza truce talks as momentum builds - BBC.com",
+            "description": "Israel and Hamas are understood to be making progress but uncertainty remains over aspects of a deal.",
+            "url": "https://www.bbc.com/news/articles/cq6g4694vygo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f75d/live/c981a4e0-d18f-11ef-87df-d575b9a434a4.jpg",
+            "publishedAt": "2025-01-13T09:44:21Z",
+            "content": "US President Joe Biden and Israeli Prime Minister Benjamin Netanyahu have spoken by phone - in Biden's final week in office - as momentum builds towards a Gaza ceasefire and hostage release deal.\r\nIs… [+3228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Adrian Kingsley-Hughes",
+            "title": "This iPhone bug is particularly alarming - ZDNet",
+            "description": "A photo circulating on Reddit, showing an iPhone alarm going off several hours late, has reignited claims of a long-standing iOS bug that Apple has yet to address.",
+            "url": "https://www.zdnet.com/article/this-iphone-bug-is-particularly-alarming/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/0839499277802cd298893c731a2f18425d5aca24/2025/01/13/07c50f65-6f43-49e7-9e5b-3cda86af2420/gettyimages-1137981631.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-01-13T08:13:00Z",
+            "content": "Alekseyliss/Getty Images\r\nPicture this: you're in a peaceful slumber, enveloped in the warmth of your dreams. Gradually, you become aware of a sound -- a gentle yet persistent alarm that begins to bu… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Top Asian Oil Buyers in Turmoil after Sweeping Russian Sanctions - Bloomberg",
+            "description": "Refiners, tanker operators and port executives across Asia have been left scrambling to manage the fallout from the most aggressive US sanctions on Russia’s oil industry to date, sifting through documents and quizzing government officials on Monday to underst…",
+            "url": "https://www.bloomberg.com/news/articles/2025-01-13/china-india-rush-to-assess-impact-of-us-sanctions-on-russian-oil",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW6FyFOFylVA/v0/1200x800.jpg",
+            "publishedAt": "2025-01-13T06:58:00Z",
+            "content": "Refiners, tanker operators and port executives across Asia have been left scrambling to manage the fallout from the most aggressive US sanctions on Russias oil industry to date, sifting through docum… [+466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Josh DuBose",
+            "title": "Alleged looter dressed as fireman arrested in Pacific Palisades - KTLA Los Angeles",
+            "description": "Two alleged looters, one of whom was dressed as a firefighter, were arrested by L.A. County Deputy Sheriff’s Sunday on Pacific Coast Highway in Pacific Palisades.   It’s unclear exactly what time the arrests were made, but a local photographer reportedly spot…",
+            "url": "https://ktla.com/news/local-news/alleged-looter-dressed-as-fireman-arrested-in-pacific-palisades/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2025/01/Palisades-Looters-4.jpg?w=1280",
+            "publishedAt": "2025-01-13T06:12:26Z",
+            "content": "Two alleged looters, one of whom was dressed as a firefighter, were arrested by L.A. County Deputy Sheriffs Sunday on Pacific Coast Highway in Pacific Palisades.  \r\nIts unclear exactly what time the … [+1676 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "CHRISTOPHER WEBER, HOLLY RAMER",
+            "title": "Los Angeles wildfire death toll surges to 24 as firefighters brace for more fierce winds - The Associated Press",
+            "description": "A surging death toll is accompanying a slight break in the weather as firefighters in Los Angeles cast a wary eye on a forecast for yet more wind. Deaths in the fires that have ravaged Los Angeles-area neighborhoods in the past week rose, reaching 24 with an …",
+            "url": "https://apnews.com/article/los-angeles-wildfires-southern-california-4997fb4d4490fdaa9f2d5cf8cd5f2be7",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dac9980/2147483647/strip/true/crop/3820x2149+0+199/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7c%2F54%2F578c1237060183a541d9554c3f12%2F03fa237033a34737a858d06f5105da4f",
+            "publishedAt": "2025-01-13T05:51:00Z",
+            "content": "LOS ANGELES (AP) After a weekend spent blocking the explosive growth of fires that destroyed thousands of homes and killed at least 24 people in the Los Angeles area, firefighters got a slight break … [+8603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "AAMER MADHANI",
+            "title": "Biden says he was the steady hand the world needed after Trump, who's ready to shake things up again - Yahoo! Voices",
+            "description": "President Joe Biden strode into the White House four years ago with a foreign policy agenda that put repairing alliances strained by four years of Republican...",
+            "url": "https://www.yahoo.com/news/biden-says-steady-hand-world-051404448.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/crAb90xOr8SUVnXS_Y3w7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/64886476f7812f0bb1d65612ec40836e",
+            "publishedAt": "2025-01-13T05:14:00Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nW… [+8413 chars]"
+        }
+    ]
+}
