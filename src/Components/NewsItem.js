@@ -1,13 +1,10 @@
-import React, { Component } from "react";
-
-export class NewsItem extends Component {
-  render() {
+const NewsItem=(props)=> {
     let { title, description, imageUrl, newsUrl, publishedAt, author,source } =
-      this.props;
+      props;
     return (
       <div>
         <div className="card">
-          <div style={{display:'flex', justifyContent:'flex-end', position:'absolute', right:'0'}}><span class="badge rounded-pill bg-danger">{source}</span></div>
+          <div style={{display:'flex', justifyContent:'flex-end', position:'absolute', right:'0'}}><span className="badge rounded-pill bg-danger">{source}</span></div>
           <img
             src={
               !imageUrl
@@ -21,7 +18,7 @@ export class NewsItem extends Component {
             <h5 className="card-title">{title}...</h5>
             <p className="card-text">{description}...</p>
             <p className="card-text">
-              <small class="text-body-secondary">
+              <small className="text-body-secondary">
                 by {author ? author : "Unknown"} Last updated{" "}
                 {new Date(publishedAt).toGMTString()}
               </small>
@@ -38,7 +35,7 @@ export class NewsItem extends Component {
         </div>
       </div>
     );
-  }
+  
 }
 
 export default NewsItem;
